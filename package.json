@@ -2,6 +2,7 @@
   "name": "task-pro-backend-test",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://GoitStudentsWorks.github.io/FSOn_69_project-REACT_NODE-task-pro-backend-test/",
   "scripts": {
     "start": "cross-env NODE_ENV=production node ./server.js",
     "start:dev": "cross-env NODE_ENV=development nodemon ./server.js",
